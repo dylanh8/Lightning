@@ -21,7 +21,7 @@ rect(0, 0, 700, 700);
 //float yr=sin(angle);
 
 
-println(direction);
+
 
 if(direction==1){
   while(x<700){
